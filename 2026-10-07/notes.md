@@ -1,7 +1,7 @@
-# 2026-10-04
+# 2026-10-07
 
 ## Chu de hom nay
-Matplotlib(2)
+Tiền xử lý data bằng Scikit-Learn
 
 ## Nhung gi da hoc
 - 
